@@ -1,7 +1,7 @@
 # Co2-Emissions-Forecasting-Using-Regression
 Implemented a research paper on regression analysis from scratch to predict Co2 emissions of different vehicles.
 ![Reseach paper Link]()
-# Machine Learning Model: CO2 Emissions Prediction
+
 
 This repository contains a machine learning project to predict CO2 emissions using multiple regression models, including:
 - Linear Regression
@@ -38,17 +38,17 @@ This repository contains a machine learning project to predict CO2 emissions usi
 |----------------------|--------------|
 | Random Forest        | **99.67**    |
 | K-Neighbors Algorithm| 99.11        |
-| Linear Regression    | 96.34        |
-| Decision Tree        | 96.11        |
-| XGBRegressor         | 90.18        |
+| Linear Regression    | 99.03        |
+| Decision Tree        | 98.23        |
+| XGBRegressor         | 84.16        |
 
----
+
 
 ## **Visualization**
 
 Below is a bar graph comparing the accuracies of the models:
 
-![Algorithm vs Accuracy](algorithm_vs_accuracy.png)
+![Algorithm vs Accuracy](https://github.com/Laasyakshara25/Co2-Emissions-Forecasting-Using-Regression/blob/main/assets/algorithm_vs_accuracy.png)
 
 
 
