@@ -1,6 +1,8 @@
 # Co2-Emissions-Forecasting-Using-Regression
 Implemented a research paper on regression analysis from scratch to predict Co2 emissions of different vehicles.
 
+Achieved an accuracy of 99.67% using Random Forest Regressor and improved accuracy by 1.24%.
+
 Research Paper link: https://www.researchgate.net/publication/379941902
 
 
