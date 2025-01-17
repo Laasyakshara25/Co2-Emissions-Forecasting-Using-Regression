@@ -55,6 +55,5 @@ Below is a bar graph comparing the accuracies of the models:
 ## **How to Use**
  Clone this repository:
    ```bash
-   git clone https://github.com/your-repo/co2-emissions-prediction.git
-   cd co2-emissions-prediction
+   git clone https://github.com/Laasyakshara25/Co2-Emissions-Forecasting-Using-Regression.git
    ```
