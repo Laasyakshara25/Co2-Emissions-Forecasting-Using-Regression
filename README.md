@@ -1,6 +1,7 @@
 # Co2-Emissions-Forecasting-Using-Regression
 Implemented a research paper on regression analysis from scratch to predict Co2 emissions of different vehicles.
-![Reseach paper Link]()
+
+Research Paper link: https://www.researchgate.net/publication/379941902
 
 
 This repository contains a machine learning project to predict CO2 emissions using multiple regression models, including:
