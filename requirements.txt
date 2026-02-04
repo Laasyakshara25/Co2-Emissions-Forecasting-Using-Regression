@@ -1,0 +1,9 @@
+# CO2 Emissions Prediction - Streamlit App Requirements
+
+# Core ML Libraries
+scikit-learn>=1.4.0
+pandas>=2.2.0
+numpy>=1.26.0
+
+# Streamlit App
+streamlit>=1.30.0
